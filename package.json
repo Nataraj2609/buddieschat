@@ -1,0 +1,26 @@
+{
+  "name": "buddieschat",
+  "version": "1.0.0",
+  "description": "This chat application is used in Enterprise by co-workers to communicate with each other",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataraj2609/buddieschat.git"
+  },
+  "keywords": [
+    "nataraj.m",
+    "<nataraj2609@gmail.com>"
+  ],
+  "author": "nataraj.m <nataraj2609@gmail.com>",
+  "license": "ISC",
+  "engines":{
+    "node": "4.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Nataraj2609/buddieschat/issues"
+  },
+  "homepage": "https://github.com/Nataraj2609/buddieschat#readme"
+}
